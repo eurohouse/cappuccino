@@ -1,18 +1,55 @@
 {
     "000":
     {
-        "title": "Dutch East India Company"
+        "title": "Dutch East India Company",
+        "language":
+        {
+            "RU": "Голландская Ост-Индская компания",
+            "UA": "Голландська Ост-Індська компанія",
+            "NL": "Verenigde Oostindische Compagnie",
+            "GR": "Ολλανδικών Ανατολικών Ινδιών",
+            "KR": "네덜란드 동인도 회사",
+            "CN": "荷兰东印度公司",
+            "JP": "オランダ東インド会社"
+        }
     },
     "001":
     {
-        "title": "Meiji Restoration in Japan"
+        "title": "Meiji Restoration in Japan",
+        "language":
+        {
+            "RU": "Реставрация Мэйдзи в Японии",
+            "UA": "Реставрація Мейдзі в Японії",
+            "GR": "Ιαπωνική Αυτοκρατορία",
+            "JP": "明治維新と日本植民地帝国",
+            "KR": "메이지유신과 일제강점기",
+            "CN": "明治维新和日本殖民帝国"
+        }
     },
     "002":
     {
-        "title": "Café Society of the World"
+        "title": "Café Society of the World",
+        "language":
+        {
+            "RU": "Рестораны и кухни всего мира",
+            "UA": "Кухні та харчевні всього світу",
+            "GR": "Καφετέρια Αφρόκρεμα",
+            "JP": "グローバルカフェソサエティ",
+            "CN": "世界各地的餐厅和美食",
+            "KR": "세계 각국의 레스토랑과 음식"
+        }
     },
     "003":
     {
-        "title": "The Audrey Hepburn Story"
+        "title": "The Audrey Hepburn Story",
+        "language":
+        {
+            "RU": "Биография Одри Хепберн",
+            "UA": "Біографія Одрі Хепберн",
+            "GR": "Οικογενειακό Κτήμα",
+            "JP": "オードリー・ヘプバーン物語",
+            "KR": "오드리 햅번의 이야기",
+            "CN": "奥黛丽·赫本的故事"
+        }
     }
 }
