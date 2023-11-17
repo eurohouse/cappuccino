@@ -4,5 +4,6 @@
     "weight": 44,
     "sizes": "81-61-84",
     "shoe_size": 7.5,
-    "foot_type": "Roman"
+    "foot_type": "Roman",
+    "country": "US"
 }
