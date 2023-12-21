@@ -1,0 +1,34 @@
+{
+    "Cara Delevingne":
+    {
+        "height": 1.73,
+        "weight": 51,
+        "sizes": "81-61-87",
+        "shoe_size": 8.5,
+        "foot_type": "Greek",
+        "country": "UK"
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66,
+        "weight": 57,
+        "sizes": "89-63-89",
+        "shoe_size": 7.5,
+        "foot_type": "Greek",
+        "country": "FR"
+    },
+    "Boudoir":
+    {
+        "foot_type": "Greek",
+        "country": "FR"
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55,
+        "weight": 44,
+        "sizes": "81-61-84",
+        "shoe_size": 7.5,
+        "foot_type": "Roman",
+        "country": "US"
+    }
+}
