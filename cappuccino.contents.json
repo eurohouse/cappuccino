@@ -82,10 +82,18 @@
         "title": "Dutch East India Company",
         "setting": "La Belle Époque",
         "country": "NL",
-        "insignia": "sailor",
+        "insignia": "eastindia",
         "memoir": "The Dutch East India Company (VOC) was formed in 1602 by the Staten-Generaal (States General) of the then Republic of the Seven United Netherlands. The company was granted a 21-year charter with rights to trade exclusively in Asia and to buy valuable spices, such as nutmeg, mace, and cloves. Spices were in high demand in Europe to flavour food dishes and for use in medicines, and the company eventually gained a monopoly on spices. By the mid-1600s, the Dutch East India Company had approximately 50000 employees working in both Asia and the Netherlands. Between 1602 and 1799, when the company was formally dissolved, its ships made nearly 5000 voyages from the Netherlands to the East Indies in search of sought-after spices and carried over one million people to Asia. Although the company's primary purpose was trade, it became a colonial power in 17th-century Asia with the right to make treaties, build fortifications, and conduct military operations. The Dutch East India Company brought an end to the Portuguese monopoly over the spice trade, and at its height, the company's stock was worth 78 million Dutch guilders (approximately $7900000000000)."
     },
     "cappuccino.000.16.png":
+    {
+        "title": "Dutch intervention in Bali",
+        "setting": "La Belle Époque",
+        "country": "NL",
+        "insignia": "fleurdelis",
+        "memoir": "The Dutch intervention in Bali in 1849 was a major Dutch military intervention in Northern and Southern Bali, following two failed interventions, the 1846 intervention and the 1848 intervention. The Dutch used as a pretext Balinese salvage claims over shipwrecks, which were customary to the Balinese, but unacceptable under International law. The expedition arrived off Buleleng in 1849. It was a considerable force of the Royal Dutch East Indies Army, composed of 100 ships, 3000 sailors, and 5000 well-trained soldiers, including a majority of Dutch troops."
+    },
+    "cappuccino.000.17.png":
     {
         "title": "Dutch intervention in Bali",
         "setting": "La Belle Époque",
@@ -98,7 +106,7 @@
         "title": "Voyages of Christopher Columbus",
         "setting": "La Belle Époque",
         "country": "EU",
-        "insignia": "sailor",
+        "insignia": "compass",
         "memoir": "The explorer Christopher Columbus made four trips across the Atlantic Ocean from Spain: in 1492, 1493, 1498 and 1502. He was determined to find a direct water route west from Europe to Asia, but he never did. Instead, he stumbled upon the Americas. Though he did not “discover” the so-called New World - millions of people already lived there - his journeys marked the beginning of centuries of exploration and colonization of North and South America."
     },
     "cappuccino.000.20.png":
