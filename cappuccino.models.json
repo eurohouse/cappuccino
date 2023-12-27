@@ -29,7 +29,8 @@
         "sizes": "81-61-87",
         "shoe_size": 8.5,
         "foot_type": "Greek",
-        "country": "UK"
+        "country": "UK",
+        "insignia": "null"
     },
     "Musée d’Orsay":
     {
@@ -46,12 +47,13 @@
         "sizes": "89-63-89",
         "shoe_size": 7.5,
         "foot_type": "Greek",
-        "country": "FR"
+        "country": "FR",
+        "insignia": "null"
     },
     "Parisian Wedding":
     {
         "country": "FR",
-        "insignia": "fleurdelis",
+        "insignia": "null",
         "maison": "https://www.chicagostyleweddings.com/weddings/old-world-european-modern-flair",
         "memoir": "Old-World European Wedding Inspiration with a Modern Flair. For the timeless couple looking for one-of-a-kind wedding inspiration, this styled shoot at The Armour House Mansion & Gardens offers just that. It celebrates the romance of Old World European design with a nod to modern luxury. From the Florentine nesting tables topped with an artistic cake to classically silhouetted bridal couture and antique farm tables perfected by billowing centerpieces - this talented team of vendors flawlessly fused the old and the new. The best part is that the fusion of those two differing styles mirrors the couple's \"opposites attract\" personalities - him the cosmopolitan and her a lover of all things vintage - while honoring their shared passions for travel, romance, and a fresh take on the classic."
     },
@@ -78,7 +80,8 @@
         "sizes": "81-61-84",
         "shoe_size": 7.5,
         "foot_type": "Roman",
-        "country": "US"
+        "country": "US",
+        "insignia": "null"
     },
     "Notre Dame Cathedral":
     {
