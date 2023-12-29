@@ -1,3 +1,15 @@
 {
-    "cappuccino.000.08.png": "'The important thing in life is not victory but combat; it is not to have vanquished but to have fought well.' - Pierre de Coubertin."
+    "cappuccino.000.08.png":
+    {
+        "default": "'The important thing in life is not victory but combat; it is not to have vanquished but to have fought well.' - Pierre de Coubertin.",
+        "RU": "'Главное - не победа, а участие.' - Пьер де Кубертен.",
+        "SU": "'Главное - не победа, а участие.' - Пьер де Кубертен.",
+        "UA": "'Головне не перемога, а участь.' – П'єр де Кубертен.",
+        "RR": "'Головне не перемога, а участь.' – П'єр де Кубертен.",
+        "JP": "「重要なことは勝つことではなく、参加することだ。」 - ピエール・ド・クーベルタン。",
+        "KR": "'중요한 것은 이기는 것이 아니라 참여하는 것이다.' - 피에르 드 쿠베르탱.",
+        "KP": "'중요한 것은 이기는 것이 아니라 참여하는 것이다.' - 피에르 드 쿠베르탱.",
+        "TW": "“重要的不是獲勝，而是參與。” — 皮埃爾·德·顧拜旦。",
+        "CN": "“重要的不是获胜，而是参与。” — 皮埃尔·德·顾拜旦。"
+    }
 }
