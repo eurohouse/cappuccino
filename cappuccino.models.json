@@ -36,9 +36,7 @@
         "sizes": "81-61-87",
         "shoe_size": 8.5,
         "foot_type": "Greek",
-        "country": "UK",
-        "insignia": "null",
-        "private": "true"
+        "country": "UK"
     },
     "Musée d’Orsay":
     {
@@ -55,9 +53,7 @@
         "sizes": "89-63-89",
         "shoe_size": 7.5,
         "foot_type": "Greek",
-        "country": "FR",
-        "insignia": "null",
-        "private": "true"
+        "country": "FR"
     },
     "Parisian Wedding":
     {
@@ -90,9 +86,7 @@
         "sizes": "81-61-84",
         "shoe_size": 7.5,
         "foot_type": "Roman",
-        "country": "US",
-        "insignia": "null",
-        "private": "true"
+        "country": "US"
     },
     "Notre Dame Cathedral":
     {
