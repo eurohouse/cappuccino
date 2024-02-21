@@ -1,0 +1,240 @@
+{
+    "RMS Titanic":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "insignia": "compass",
+        "memoir": "Titanic, British luxury passenger liner that sank on April 14-15, 1912, during its maiden voyage, en route to New York City from Southampton, England, killing about 1500 passengers and ship personnel. One of the most famous tragedies in modern history, it inspired numerous stories, several films, and a musical and has been the subject of much scholarship and scientific speculation. In the early 1900s the transatlantic passenger trade was highly profitable and competitive, with ship lines vying to transport wealthy travelers and immigrants. Two of the chief lines were White Star and Cunard. By the summer of 1907, Cunard seemed poised to increase its share of the market with the debut of two new ships, the Lusitania and the Mauretania, which were scheduled to enter service later that year. The two passenger liners were garnering much attention for their expected speed; both would later set speed records crossing the Atlantic Ocean. Looking to answer his rival, White Star chairman J. Bruce Ismay reportedly met with William Pirrie, who controlled the Belfast shipbuilding firm Harland and Wolff, which constructed most of White Star’s vessels. The two men devised a plan to build a class of large liners that would be known for their comfort instead of their speed. It was eventually decided that three vessels would be constructed: the Olympic, the Titanic, and the Britannic."
+    },
+    "Borki Train Disaster":
+    {
+        "setting": "La Belle Époque",
+        "country": "RU",
+        "insignia": "express",
+        "maison": "https://www.romanovempire.org",
+        "memoir": "The Borki train disaster occurred on October 29, 1888, near Borki station in the former Kharkov Governorate of the Russian Empire, 295 kilometers south of Kursk, when the imperial train carrying Tsar Alexander III of Russia and his family from Crimea to Saint Petersburg derailed at high speed. Twenty-one people died at the scene and two later, and many others were injured. According to the official version of events, Alexander held the collapsed roof of the royal car on his shoulders while his family escaped the crash site uninjured. The story of the miraculous escape became part of contemporary lore and government propaganda. The investigation into the crash, led by Anatoly Koni, resulted in the appointment of railway manager and future Prime Minister of the Russian Empire Sergei Witte as the Director of State Railways."
+    },
+    "British Royal Train":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "maison": "https://www.royal.uk",
+        "insignia": "crown",
+        "memoir": "The first carriage built for the exclusive use of a member of the British Royal Family was constructed in 1842 by the London and Birmingham Railway for Queen Adelaide. This carriage is now on display in the National Railway Museum in York. In 1869, Queen Victoria commissioned a pair of coaches for £1800 (equivalent to £177000 in 2021) from the London and North Western Railway. In 1874, the GWR built a new royal saloon at its Swindon Works for the use of the queen. It was constructed under the supervision of Joseph Armstrong. It was 13 m long. In 1877, the London and South Western Railway built a royal saloon for the use of the queen. It was built at the company workshop at Nine Elms and was 15 m long."
+    },
+    "Eiffel Tower":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.toureiffel.paris",
+        "insignia": "toureiffel",
+        "memoir": "The 1889 Exposition Universelle received millions of visitors. Amongst them, 1953122 came to see the Eiffel Tower, in other words almost 12000 a day! The Tower was met with immediate success. From the very first week, though the lifts were not yet in service (they would be from the 26th May), almost 30000 visitors climbed the monument using the staircase, that is to say 1710 steps to the top! At the time, the Eiffel Tower was the tallest tower in the world and people from all countries went to the heart of the French Capital to admire this architectural masterpiece. The public hurried to experience not only the dizzy heights of the ascent, but above all an unprecedented view over Paris, since no one had yet seen the view from an aeroplane. The Eiffel Tower has attracted among its copious number of celebrity visitors the French actress Sarah Bernhardt, the Prince of Wales (future King Edward VII) and the Princess of Wales, George I of Greece, le Shah of Persia, Prince Baudouin and other, more unexpected guests such as one certain American: he had long hair, a broad hat and tan-coloured chaps. It was William F. Cody, known by the name of Buffalo Bill. On the 10th July, the President of the French Republic, Sadi Carnot, very satisfied with his visit, offered a sum of 200 Francs to the Eiffel Tower employees and a sum of 100 Francs to the Figaro printing staff!"
+    },
+    "Cara Delevingne":
+    {
+        "height": 1.73,
+        "weight": 51,
+        "sizes": "81-61-87",
+        "shoe_size": 8.5,
+        "country": "GB"
+    },
+    "Musée d'Orsay":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.musee-orsay.fr",
+        "insignia": "palace",
+        "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition. The difficulty that arose in implementing the allocated design was how to fit the new station onto its designated site. The neighbourhood was an extremely elegant one and the station was to face the Louvre and the Jardin des Tuileries. Therefore integrating such a large scale railway station into such an up market district required a lot of skill. Victor Laloux therefore decided to hide the existing exterior metallic structures of the station by building an elegant stone front. He also chose to modernise the interior design in the form of implementing lifts for heavy luggage, separate lifts for passengers and the innovative idea of platforms below ground. There was also a good reception service on the ground floor. Until 1939, the station acted not only as a place of transit for passengers but also as a location for associations and political parties to hold meeting and banquets. During the Second World War, the Orsay station became a dispatch centre for the sending of parcels to prisoners. Later, during the Liberation, it then became a reception centre for prisoners. It was only in 1977 that the then President of the Republic Valéry Giscard d'Estaing made the decision to build a museum on the site. Although the official decision to build the Musée d'Orsay was made in 1977, it took nine years for President François Mitterrand to finally open it."
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66,
+        "weight": 57,
+        "sizes": "89-63-89",
+        "shoe_size": 7.5,
+        "country": "FR"
+    },
+    "Parisian Wedding":
+    {
+        "country": "FR",
+        "insignia": "eurohouse"
+    },
+    "💖 Boudoir":
+    {
+        "foot_type": "Greek",
+        "country": "FR",
+        "maison": "https://www.coutureboudoir.com",
+        "insignia": "crown",
+        "memoir": "My main goal when photographing my clients is helping them find their feminine power. Just like men have this aura of masculinity and find pride in that, I feel women should not be made to feel ashamed of their sensuality. We are all sexual beings or we would not be here. There is so much healthy power in feeling confident in your body. One of the things I love most about my job is knowing how much I have changed the way my clients see themselves. “I have never felt more beautiful! Thank you of making me feel comfortable and helping me see what my husband sees. CYNTHIA. Who says the session is just for the guy! What a wonderful way to get pampered and feel like a movie star and have some of the most gorgeous images of yourself! Your boudoir session will be like a fashion shoot with many wardrobe changes to give you a diverse selection of beautiful images to place in an album or to display as art prints. In a world that distorts women’s bodies at every turn, giving rise to devastating and self-esteem destroying self-image issues, boudoir photography stands out for its unapologetic celebration of real women’s bodies. What my client's are saying... \"I was really nervous about everything at first but Critsey's professionalism and approachability put me at ease almost from the first shot. It's funny - this started out being a present for my fiancé, but has really become a gift for myself.\" ~KELLY."
+    },
+    "🏆 1896 Summer Olympics 🏁":
+    {
+        "setting": "La Belle Époque",
+        "country": "GR",
+        "maison": "https://olympics.com",
+        "insignia": "olympic",
+        "memoir": "'The important thing in the Olympic Games is not to 🏆 win, but to 🎲 take part; the important thing in Life is not 🏁 triumph, but the 💪 struggle; the essential thing is not to have 🏹 conquered but to have 🏓 fought well.' - Pierre de Coubertin. The 1896 Summer Olympics, officially known as the Games of the I Olympiad and commonly known as Athens 1896, was the first international Olympic Games held in modern history. Organised by the International Olympic Committee (IOC), which had been created by French aristocrat Pierre de Coubertin, it was held in Athens, Greece, from 6 to 15 April 1896."
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55,
+        "weight": 44,
+        "sizes": "81-61-84",
+        "shoe_size": 7.5,
+        "country": "US"
+    },
+    "Notre Dame Cathedral":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://notredamecathedralparis.com",
+        "insignia": "cross",
+        "memoir": "On 15 April 2019, just before 18:20 CEST, a structural fire broke out in the roof space of Notre-Dame de Paris, a medieval Catholic cathedral in Paris, France. By the time the fire was extinguished, the cathedral's spire had collapsed, most of its roof had been destroyed, and its upper walls were severely damaged. Extensive damage to the interior was prevented by its vaulted stone ceiling, which largely contained the burning roof as it collapsed. Many works of art and religious relics were moved to safety early in the emergency, but others suffered smoke damage, and some of the exterior art was damaged or destroyed. The cathedral's altar, two pipe organs, and three 13th-century rose windows suffered little or no damage. Three emergency workers were injured. The fire contaminated the site and nearby areas of the city with toxic dust and lead. The cathedral did not hold a Christmas Mass in 2019 due to the fire, the first time since 1803 that a Mass had not been held."
+    },
+    "Musée du Louvre":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.louvre.fr",
+        "insignia": "louvre",
+        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV. In 1791, during the French Revolution, it was decreed that the Louvre should become a museum of the arts. The Muséum Central des Arts was inaugurated in 1793, and thereafter the palace was increasingly given over to the museum collections and their display to the public. From 1981 to 1989, the Pyramid project focused on putting visitors at the heart of the museum and its collections. The Department of Islamic Art was inaugurated in 2012 and the Department of Byzantine and Eastern Christian Art was created in 2022. The Louvre is a universal museum with nine curatorial departments: Egyptian Antiquities; Near Eastern Antiquities; Greek, Etruscan and Roman Antiquities; Paintings; Sculptures; Decorative Arts; Prints and Drawings; Islamic Art; and now Byzantine and Eastern Christian Art. Some 33,000 works of art are on display, including world-famous masterpieces such as the Winged Victory of Samothrace, the Seated Scribe, the Winged Bulls of Khorsabad, the Mona Lisa and Michelangelo's Slaves, and parts of the palace, such as the Napoleon III Apartments, are works of art in their own right. In front of the palace is the Tuileries Garden, created during the Renaissance by Catherine de' Medici, and a few miles away, at the heart of Saint-Germain-des-Prés, is another museum managed by the Louvre - the Musée Eugène-Delacroix, housed in the painter's last apartment."
+    },
+    "Exposition Universelle (1889)":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.toureiffel.paris",
+        "insignia": "toureiffel",
+        "memoir": "The tenth Exposition Universelle was organised in Paris in 1889, from the 15th May to the 6th November, and it was for this occasion that the Eiffel Tower was built. Stretching over 95 hectares, the Exposition filled the Champ-de-Mars, the Trocadero Hill, and the banks up to the Invalides esplanade, and the Eiffel Tower was at the centre of everyone's view. The Universal Exposition of 1889 (Exposition Universelle de 1889) was a highly successful international exhibition and one of the few world's fairs to make a profit. Its central attraction was the Eiffel Tower, a 300-meter high marvel of iron by Gustave Eiffel. Over eighty other structures on the Champ de Mars housed exhibits, including the impressive 1,452 foot long Galerie des Machines by Ferdinand Dutert. The fair attracted exhibits from Europe, South America, the United States, and the French colonies, yet in the final analysis it was a celebration of French achievements on the centennial of the French Revolution. Photographs in the Prints and Photographs Division document many of the achievements in architecture, the fine arts, and new technology that the exposition was designed to highlight."
+    },
+    "Huitieme Plan de Paris":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "givenchy"
+    },
+    "Ptolemy's World Map":
+    {
+        "setting": "La Belle Époque",
+        "country": "GR",
+        "insignia": "mason"
+    },
+    "Dutch East India Company":
+    {
+        "setting": "La Belle Époque",
+        "country": "NL",
+        "insignia": "eastindia",
+        "memoir": "Dutch East India Company, trading company founded in the Dutch Republic (present-day Netherlands) in 1602 to protect that state’s trade in the Indian Ocean and to assist in the Dutch war of independence from Spain. The company prospered through most of the 17th century as the instrument of the powerful Dutch commercial empire in the East Indies (present-day Indonesia). It was dissolved in 1799. The Dutch government granted the company a trade monopoly in the waters between the Cape of Good Hope at the southern tip of Africa and the Straits of Magellan between the Atlantic and Pacific oceans with the right to conclude treaties with native princes, to build forts and maintain armed forces, and to carry on administrative functions through officials who were required to take an oath of loyalty to the Dutch government. Under the administration of forceful governors-general, most notably Jan Pieterszoon Coen (1618-23) and Anthony van Diemen (1636-45), the company was able to defeat the British fleet and largely displace the Portuguese in the East Indies."
+    },
+    "Dutch intervention in Bali":
+    {
+        "setting": "La Belle Époque",
+        "country": "NL",
+        "insignia": "fleurdelis",
+        "memoir": "The Dutch intervention in Bali in 1906 was a Dutch military intervention in Bali, which destroyed the southern Bali kingdom of Badung and Tabanan, and weakened the kingdom of Klungkung. It was the sixth Dutch military intervention in Bali. The Netherlands had already conquered northern Bali by the middle of the 19th century, integrating the kingdoms of Jembrana, Buleleng and Karangasem into the Dutch East Indies, but the southern kingdom of Tabanan, Badung and Klungkung had managed to remain independent. Various disputes took place between the Dutch and the southern kingdoms, and it was expected that the Dutch would intervene militarily once a pretext presented itself.There were recurrent disputes between the Dutch and Balinese kings regarding the right to plunder ships that foundered off the reefs surrounding Bali. The Balinese king traditionally considered such wrecks as their property, while the Dutch insisted they were not. On 27 May 1904, a Chinese schooner named Sri Kumala struck the reef near Sanur, and was plundered by the Balinese."
+    },
+    "Voyages of Christopher Columbus":
+    {
+        "setting": "La Belle Époque",
+        "country": "EU",
+        "insignia": "compass",
+        "memoir": "For his westward voyage to find a shorter route to the Orient, Columbus and his crew took three medium-sized ships, the largest of which was a carrack, the Santa María, which was owned and captained by Juan de la Cosa, and under Columbus's direct command. The other two were smaller caravels; the name of one is lost, but it is known by the Castilian nickname Pinta. The other, the Santa Clara, was nicknamed the Niña, perhaps in reference to her owner, Juan Niño of Moguer. The Pinta and the Niña were piloted by the Pinzón brothers. On the morning of 3 August 1492, Columbus departed from Palos de la Frontera, Huelva, going down the Rio Tinto and into the Atlantic. Three days into the journey, on 6 August 1492, the rudder of the Pinta broke. Martín Alonso Pinzón suspected the owners of the ship of sabotage, as they were afraid to go on the journey. The crew was able to secure the rudder with ropes until they could reach the Canary Islands, where they arrived on 9 August. The Pinta had its rudder replaced on the island of Gran Canaria, and by September 2 the ships rendezvoused at La Gomera, where the Niña's lateen sails were re-rigged to standard square sails. Final provisions were secured, and on 6 September the ships departed San Sebastián de La Gomera for what turned out to be a five-week-long westward voyage across the Atlantic."
+    },
+    "Boston Tea Party":
+    {
+        "setting": "La Belle Époque",
+        "country": "US",
+        "insignia": "teapot",
+        "memoir": "Boston Tea Party (December 16, 1773), incident in which 342 chests of tea belonging to the British East India Company were thrown from ships into Boston Harbor by American patriots disguised as Mohawk Indians. The Americans were protesting both a tax on tea (taxation without representation) and the perceived monopoly of the East India Company. The Townshend Acts passed by Parliament in 1767 and imposing duties on various products imported into the British colonies had raised such a storm of colonial protest and noncompliance that they were repealed in 1770, saving the duty on tea, which was retained by Parliament to demonstrate its presumed right to raise such colonial revenue without colonial approval. The merchants of Boston circumvented the act by continuing to receive tea smuggled in by Dutch traders. In 1773 Parliament passed a Tea Act designed to aid the financially troubled East India Company by granting it a monopoly on all tea exported to the colonies, an exemption on the export tax, and a “drawback” (refund) on duties owed on certain surplus quantities of tea in its possession. The tea sent to the colonies was to be carried only in East India Company ships and sold only through its own agents, bypassing the independent colonial shippers and merchants. The company thus could sell the tea at a less-than-usual price in either America or Britain; it could undersell anyone else. The perception of monopoly drove the normally conservative colonial merchants into an alliance with radicals led by Samuel Adams and his Sons of Liberty."
+    },
+    "Declaration of Independence":
+    {
+        "setting": "La Belle Époque",
+        "country": "US",
+        "insignia": "wolf",
+        "memoir": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press, or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. A well-regulated militia, being necessary to the security of a free State, the right of the people to keep and bear arms, shall not be infringed. No soldier shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law. The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use without just compensation. In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense. In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury shall be otherwise re-examined in any court of the United States, than according to the rules of the common law. Excessive bail shall not be required nor excessive fines imposed, nor cruel and unusual punishments inflicted. The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people. The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. - U.S. Bill of Rights, Amendments I-X to the Constitution."
+    },
+    "The Death of General Wolfe":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "insignia": "crown",
+        "memoir": "The Death of General Wolfe, oil painting created in 1770 by American-born artist Benjamin West, depicting the death of British Major General James Wolfe during the 1759 Battle of Quebec. The monumental Neoclassical painting is one of the artist's best known works as well as one of the most famous paintings of the 18th century. West had moved in 1763 to England, where he quickly gained a reputation as portraitist to King George III before painting The Death of General Wolfe. The Battle of Quebec was a turning point in the French and Indian War, leading to the French surrender of Canada to British control. Wolfe won this fight, but lost his life, and West presents him as a modern, noble hero. Although the painting’s composition is entirely within Neoclassical tradition, West unconventionally depicts his figures in contemporary dress, rather than working within a classical or allegorical manner, and this was initially controversial when it was first exhibited at London’s Royal Academy of Arts in 1771. In the painting, Wolfe is flanked by fellow officers, many of them historical figures, and a wholly fictional Native American (possibly Mohawk). Each figure responds to Wolfe’s death, focusing the viewer’s attention on this central scene. West has distorted actual events to heighten the painting’s drama. Here, the battle is in full swing right behind the dying general; in fact he died further afield as the battle was ending. Not all of the historical figures depicted were present at the battle. Wolfe’s body in the painting alludes to Christ’s descent from the cross, and the shape of the brooding clouds echoes his slumped figure."
+    },
+    "Burning of Washington":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "insignia": "police",
+        "memoir": "The burning of Washington, D.C., in 1814 was one of America's darkest hours. The new republic that had been created by the Founding Fathers less than a half-century earlier was in peril. Culminating in a flurry of disastrous British-American interactions that resulted in war - the War of 1812 acted as a pseudo-Revolutionary War that further solidified the United States' legitimacy as a new nation independent from the British Empire. Since the Revolutionary War, America and Britain were not on good terms. The British navy continually captured American sailors on the high seas, as well as assisted Native American tribes against American expansionist efforts."
+    },
+    "Coronation of Queen Victoria":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "insignia": "crown",
+        "memoir": "This painting captures the moment in the Coronation of Queen Victoria in Westminster Abbey when, after the Crowning, 'the people with loud and repeated shouts, will cry \"GOD SAVE THE QUEEN\": and immediately the Peers and Peeresses present will put on their Coronets' - in the Queen's words, 'a most beautiful and impressive moment'. The Queen is seated on the Coronation Chair, wearing the Imperial State Crown and holding in her right hand the Sceptre with the Cross and in her left the Sceptre with the Dove."
+    },
+    "French Revolution":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "fleurdelis",
+        "memoir": "The Estates-General met at Versailles on May 5, 1789. They were immediately divided over a fundamental issue: should they vote by head, giving the advantage to the Third Estate, or by estate, in which case the two privileged orders of the realm might outvote the third? On June 17 the bitter struggle over this legal issue finally drove the deputies of the Third Estate to declare themselves the National Assembly; they threatened to proceed, if necessary, without the other two orders. They were supported by many of the parish priests, who outnumbered the aristocratic upper clergy among the church's deputies. When royal officials locked the deputies out of their regular meeting hall on June 20, they occupied the king's indoor tennis court (Jeu de Paume) and swore an oath not to disperse until they had given France a new constitution. The king grudgingly gave in and urged the nobles and the remaining clergy to join the assembly, which took the official title of National Constituent Assembly on July 9; at the same time, however, he began gathering troops to dissolve it."
+    },
+    "Meiji Restoration":
+    {
+        "setting": "La Belle Époque",
+        "country": "JP",
+        "insignia": "mortalkombat",
+        "memoir": "The Meiji Restoration and Modernization. In 1868 the Tokugawa shôgun, who ruled Japan in the feudal period, lost his power and the emperor was restored to the supreme position. The emperor took the name Meiji as his reign name; this event was known as the Meiji Restoration."
+    },
+    "Opium Wars":
+    {
+        "setting": "La Belle Époque",
+        "country": "TW",
+        "insignia": "pistol",
+        "memoir": "Hostilities broke out later that year when British warships destroyed a Chinese blockade of the Pearl River estuary at Hong Kong. The British government decided in early 1840 to send an expeditionary force to China, which arrived at Hong Kong in June. The British fleet proceeded up the Pearl River estuary to Canton, and, after months of negotiations there, attacked and occupied the city in May 1841. Subsequent British campaigns over the next year were likewise successful against the inferior Qing forces, despite a determined counterattack by Chinese troops in the spring of 1842. The British held against that offensive, however, and captured Nanjing (Nanking) in late August, which put an end to the fighting."
+    },
+    "Belgian Congo":
+    {
+        "setting": "La Belle Époque",
+        "country": "BE",
+        "insignia": "schutzstaffel",
+        "memoir": "Sixty years ago on Tuesday, Belgium staged the opening of the 1958 world fair, a glittering 200-day celebration of postwar social, cultural and technological advances. It is said to retain an \"important place in the collective memory of the Belgian nation\". A series of events are being held in the Atomium, the futuristic landmark built for the spectacle, in recognition. Yet as the Belgian capital indulges in nostalgia, one exhibit staged at the time is not being revisited: a live display of black men, women and children in \"native conditions\" laid on for the education and amusement of white Europeans. It was the world's last “human zoo”."
+    },
+    "Russo-Turkish War":
+    {
+        "setting": "La Belle Époque",
+        "country": "RU",
+        "insignia": "russia"
+    },
+    "Franz Ferdinand":
+    {
+        "setting": "La Belle Époque",
+        "country": "AT",
+        "insignia": "ironcross",
+        "memoir": "The assassination of Archduke Franz Ferdinand was one of the key events that led to World War I. Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated on 28 June 1914 by Bosnian Serb student Gavrilo Princip."
+    },
+    "British Raj":
+    {
+        "setting": "La Belle Époque",
+        "country": "IN",
+        "insignia": "crown"
+    },
+    "Belle Époque":
+    {
+        "setting": "La Belle Époque",
+        "country": "EU",
+        "insignia": "casual",
+        "memoir": "La Belle Époque is a period of French and European history, usually considered to begin around 1871-1880 and to end with the outbreak of World War I in 1914. Occurring during the era of the Third French Republic, it was a period characterised by optimism, regional peace, economic prosperity, colonial expansion, and technological, scientific, and cultural innovations. In this era of France's cultural and artistic climate, the arts markedly flourished, and numerous masterpieces of literature, music, theatre, and visual art gained extensive recognition. The Belle Époque was so named in retrospect, when it began to be considered a continental European \"Golden Age\" in contrast to the horrors of the Napoleonic Wars and World War I. The Belle Époque was a period in which, according to historian R. R. Palmer, \"European civilisation achieved its greatest power in global politics, and also exerted its maximum influence upon peoples outside Europe.\""
+    },
+    "European ☕️ Café 🍫 Culture 🍷":
+    {
+        "setting": "La Belle Époque",
+        "country": "EU",
+        "maison": "https://coffeeaffection.com",
+        "insignia": "coffee",
+        "memoir": "While coffee may have started in Ethiopia and quickly spread to the Middle East, hundreds of years later it has found its home in Europe. Needless to say, it has left its indelible mark on the culture of Europe. In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It is about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed. Many European coffee cultures, especially those of Western Europe (Spain, Portugal, France) are extremely similar. If we were to go in-depth in describing all of the intricacies of each European country's coffee culture, you’d be reading for hours. Today we will discuss the big players and influencers."
+    }
+}
