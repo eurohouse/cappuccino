@@ -19,24 +19,6 @@
     },
     "002":
     {
-        "title": "Café Society Le Beau Monde",
-        "language":
-        {
-            "RU": "Великосветское общество кафе",
-            "JP": "カフェソサエティ"
-        }
-    },
-    "003":
-    {
-        "title": "German Occupation of the Netherlands",
-        "language":
-        {
-            "RU": "Немецкая оккупация Голландии",
-            "JP": "ドイツによるオランダ占領"
-        }
-    },
-    "004":
-    {
         "title": "Le Coup d'État du [french]",
         "language":
         {
