@@ -36,7 +36,8 @@
         "weight": 51,
         "sizes": "81-61-87",
         "shoe_size": 8.5,
-        "country": "GB"
+        "country": "GB",
+        "birthday": "August 12, 1992"
     },
     "Musée d'Orsay":
     {
@@ -52,12 +53,18 @@
         "weight": 57,
         "sizes": "89-63-89",
         "shoe_size": 7.5,
-        "country": "FR"
+        "country": "FR",
+        "birthday": "September 28, 1934"
     },
     "Parisian Wedding":
     {
         "country": "FR",
-        "insignia": "eurohouse"
+        "insignia": "eurohouse",
+        "height": 0,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 0,
+        "birthday": ""
     },
     "💖 Boudoir":
     {
@@ -65,6 +72,11 @@
         "country": "FR",
         "maison": "https://www.coutureboudoir.com",
         "insignia": "crown",
+        "height": 0,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 0,
+        "birthday": "",
         "memoir": "My main goal when photographing my clients is helping them find their feminine power. Just like men have this aura of masculinity and find pride in that, I feel women should not be made to feel ashamed of their sensuality. We are all sexual beings or we would not be here. There is so much healthy power in feeling confident in your body. One of the things I love most about my job is knowing how much I have changed the way my clients see themselves. “I have never felt more beautiful! Thank you of making me feel comfortable and helping me see what my husband sees. CYNTHIA. Who says the session is just for the guy! What a wonderful way to get pampered and feel like a movie star and have some of the most gorgeous images of yourself! Your boudoir session will be like a fashion shoot with many wardrobe changes to give you a diverse selection of beautiful images to place in an album or to display as art prints. In a world that distorts women’s bodies at every turn, giving rise to devastating and self-esteem destroying self-image issues, boudoir photography stands out for its unapologetic celebration of real women’s bodies. What my client's are saying... \"I was really nervous about everything at first but Critsey's professionalism and approachability put me at ease almost from the first shot. It's funny - this started out being a present for my fiancé, but has really become a gift for myself.\" ~KELLY."
     },
     "🏆 1896 Summer Olympics 🏁":
@@ -81,7 +93,8 @@
         "weight": 44,
         "sizes": "81-61-84",
         "shoe_size": 7.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "June 26, 1993"
     },
     "Notre Dame Cathedral":
     {
@@ -214,6 +227,7 @@
         "setting": "La Belle Époque",
         "country": "AT",
         "insignia": "ironcross",
+        "birthday": "December 18, 1863",
         "memoir": "The assassination of Archduke Franz Ferdinand was one of the key events that led to World War I. Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated on 28 June 1914 by Bosnian Serb student Gavrilo Princip."
     },
     "British Raj":
