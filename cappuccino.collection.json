@@ -1,0 +1,38 @@
+{
+    "000":
+    {
+        "title": "Dutch East India Company",
+        "language":
+        {
+            "RU": "Голландская Ост-Индская компания",
+            "JP": "荷兰东印度公司",
+            "KR": "荷兰东印度公司",
+            "CN": "荷兰东印度公司",
+            "AE": "شركة شرق الهند الهولندية"
+        }
+    },
+    "001":
+    {
+        "title": "Meiji Restoration in Japan",
+        "language":
+        {
+            "RU": "Реставрация Мэйдзи в Японии",
+            "JP": "日本明治维新",
+            "KR": "日本明治维新",
+            "CN": "日本明治维新",
+            "AE": "استعادة ميجي اليابانية"
+        }
+    },
+    "002":
+    {
+        "title": "Le Coup d'État du [french]",
+        "language":
+        {
+            "RU": "[french] Луи Бонапарта",
+            "JP": "政变 [french]",
+            "KR": "政变 [french]",
+            "CN": "政变 [french]",
+            "AE": "قاعدة شاذة [french]"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Cara Delevingne":
+    {
+        "height": 1.73, "weight": 51,
+        "sizes": "81-61-87", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 12, 1992",
+        "language":
+        {
+            "RU": { "title": "Кара Делевинь" }
+        }
+    },
+    "Brigitte Bardot":
+    {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language":
+        {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
+    "Parisian Wedding":
+    {
+        "insignia": "eurohouse",
+        "nsfw": "true", "country": "FR",
+        "language":
+        {
+            "RU": { "title": "Свадьба в Париже" }
+        }
+    },
+    "Boudoir":
+    {
+        "foot_type": "Greek", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "insignia": "crown", "country": "FR",
+        "language":
+        {
+            "RU": { "title": "Дамская комната" }
+        }
+    },
+    "1896 Summer Olympics":
+    {
+        "setting": "La Belle Époque",
+        "country": "GR",
+        "maison": "https://olympics.com",
+        "insignia": "olympic",
+        "memoir": "'The important thing in the Olympic Games is not to win, but to take part; the important thing in Life is not triumph, but the struggle; the essential thing is not to have conquered but to have fought well.' - Pierre de Coubertin."
+    },
+    "Ariana Grande":
+    {
+        "height": 1.55, "weight": 44,
+        "sizes": "81-61-84", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "June 26, 1993",
+        "language":
+        {
+            "RU": { "title": "Ариана Гранде" }
+        }
+    },
+    "Bonnie and Clyde":
+    {
+        "setting": "La Belle Époque",
+        "country": "US", "insignia": "pistol"
+    }
+}
