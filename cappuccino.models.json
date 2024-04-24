@@ -9,18 +9,21 @@
     {
         "setting": "La Belle Époque",
         "country": "RU",
+        "insignia": "express",
         "memoir": "The Borki train disaster occurred on October 29, 1888 (N.S.), near Borki station in the former Kharkov Governorate of the Russian Empire (present-day Birky, Chuhuiv Raion, Kharkiv Oblast, Ukraine), 295 kilometers south of Kursk, when the imperial train carrying Tsar Alexander III of Russia and his family from Crimea to Saint Petersburg derailed at high speed. Twenty-one people died at the scene and two later, and many others were injured. According to the official version of events, Alexander held the collapsed roof of the royal car on his shoulders while his family escaped the crash site uninjured. The story of the miraculous escape became part of contemporary lore and government propaganda. The investigation into the crash, led by Anatoly Koni, resulted in the appointment of railway manager and future Prime Minister of the Russian Empire Sergei Witte as the Director of State Railways."
     },
     "British Royal Train":
     {
         "setting": "La Belle Époque",
         "country": "GB",
+        "insignia": "express",
         "memoir": "The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned, maintained and operated by DB Cargo UK. The Royal Train comprises a dedicated set of claret liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. They are arranged according to requirements, and stored when not in use. The earliest royal coaches date back to the mid-19th century in the reign of Queen Victoria; until an upgrade in 1977 there were multiple sets based in different regions, a legacy of the pre-nationalisation era of railways in Britain. Many are now in museums or on heritage railways; the National Railway Museum in York has a royal themed exhibition."
     },
     "Eiffel Tower":
     {
         "setting": "La Belle Époque",
         "country": "FR",
+        "insignia": "toureiffel",
         "maison": "https://www.toureiffel.paris",
         "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
     },
@@ -39,6 +42,7 @@
     {
         "setting": "La Belle Époque",
         "country": "FR",
+        "insignia": "palace",
         "maison": "https://www.musee-orsay.fr",
         "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition."
     },
@@ -117,6 +121,7 @@
     {
         "setting": "La Belle Époque",
         "country": "FR",
+        "insignia": "toureiffel",
         "maison": "https://www.toureiffel.paris",
         "memoir": "The 1889 Exposition Universelle received millions of visitors. Amongst them, 1,953,122 came to see the Eiffel Tower, in other words almost 12,000 a day! The Tower was met with immediate success. From the very first week, though the lifts were not yet in service (they would be from the 26th May), almost 30,000 visitors climbed the monument using the staircase, that is to say 1,710 steps to the top! At the time, the Eiffel Tower was the tallest tower in the world and people from all countries went to the heart of the French Capital to admire this architectural masterpiece."
     },
@@ -131,6 +136,7 @@
     {
         "setting": "La Belle Époque",
         "country": "GR",
+        "insignia": "mason",
         "memoir": "The continents are given as Europe, Asia, and Libya (Africa). The World Ocean is only seen to the west. The map distinguishes two large enclosed seas: the Mediterranean and the Indian (Indicum Pelagus). Due to Marinus and Ptolemy's mistaken measure of the circumference of the earth, the former is made to extend much too far in terms of degrees of arc; due to their reliance on Hipparchus, they mistakenly enclose the latter with an eastern and southern shore of unknown lands, which prevents the map from identifying the western coast of the World Ocean."
     },
     "Dutch East India Company":
@@ -157,13 +163,14 @@
     {
         "setting": "La Belle Époque",
         "country": "US",
-        "insignia": "teabag",
+        "insignia": "mason",
         "memoir": "The Boston Tea Party was an American political and mercantile protest on December 16, 1773, by the Sons of Liberty in Boston in colonial Massachusetts. The target was the Tea Act of May 10, 1773, which allowed the British East India Company to sell tea from China in American colonies without paying taxes apart from those imposed by the Townshend Acts. The Sons of Liberty strongly opposed the taxes in the Townshend Act as a violation of their rights. In response, the Sons of Liberty, some disguised as Native Americans, destroyed an entire shipment of tea sent by the East India Company."
     },
     "Declaration of Independence":
     {
         "setting": "La Belle Époque",
         "country": "US",
+        "insignia": "liberty",
         "memoir": "The Declaration of Independence, formally titled The unanimous Declaration of the thirteen united States of America (in the engrossed version but not the original printing), is the founding document of the United States. On July 4, 1776, it was adopted unanimously by the 56 delegates to the Second Continental Congress, who had convened at the Pennsylvania State House, later renamed Independence Hall, in the colonial era capital of Philadelphia. The declaration explains to the world why the Thirteen Colonies regarded themselves as independent sovereign states no longer subject to British colonial rule."
     },
     "American Revolutionary War":
@@ -176,6 +183,7 @@
     {
         "setting": "La Belle Époque",
         "country": "US",
+        "insignia": "palace",
         "memoir": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear-Admiral George Cockburn during Admiral Sir John Warren's Chesapeake campaign. It was the only time since the American Revolutionary War that a foreign power had captured and occupied a United States capital. Following the defeat of American forces at the Battle of Bladensburg on August 24, 1814, a British army led by Major-General Robert Ross marched on Washington, D.C. That evening, British soldiers and sailors set fire to multiple public buildings; including the Presidential Mansion, United States Capitol, and Washington Navy Yard."
     },
     "Franz Ferdinand":
