@@ -1,4 +1,29 @@
 {
+    "RMS Titanic":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "memoir": "RMS Titanic was a British ocean liner that sank on 15 April 1912 after striking an iceberg on the ship's maiden voyage from Southampton, England to New York City, United States. Titanic, operated by the White Star Line, was carrying passengers and mail. Of the estimated 2,224 passengers and crew aboard, approximately 1,500 died, making the incident the deadliest sinking of a single ship at the time. Titanic carried some of the wealthiest people in the world, as well as hundreds of emigrants from the British Isles, Scandinavia, and elsewhere in Europe who were seeking a new life in the United States and Canada. The disaster drew public attention, spurred major changes in maritime safety regulations, and inspired a lasting legacy in popular culture."
+    },
+    "Borki train disaster":
+    {
+        "setting": "La Belle Époque",
+        "country": "RU",
+        "memoir": "The Borki train disaster occurred on October 29, 1888 (N.S.), near Borki station in the former Kharkov Governorate of the Russian Empire (present-day Birky, Chuhuiv Raion, Kharkiv Oblast, Ukraine), 295 kilometers south of Kursk, when the imperial train carrying Tsar Alexander III of Russia and his family from Crimea to Saint Petersburg derailed at high speed. Twenty-one people died at the scene and two later, and many others were injured. According to the official version of events, Alexander held the collapsed roof of the royal car on his shoulders while his family escaped the crash site uninjured. The story of the miraculous escape became part of contemporary lore and government propaganda. The investigation into the crash, led by Anatoly Koni, resulted in the appointment of railway manager and future Prime Minister of the Russian Empire Sergei Witte as the Director of State Railways."
+    },
+    "British Royal Train":
+    {
+        "setting": "La Belle Époque",
+        "country": "GB",
+        "memoir": "The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned, maintained and operated by DB Cargo UK. The Royal Train comprises a dedicated set of claret liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. They are arranged according to requirements, and stored when not in use. The earliest royal coaches date back to the mid-19th century in the reign of Queen Victoria; until an upgrade in 1977 there were multiple sets based in different regions, a legacy of the pre-nationalisation era of railways in Britain. Many are now in museums or on heritage railways; the National Railway Museum in York has a royal themed exhibition."
+    },
+    "Eiffel Tower":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.toureiffel.paris",
+        "memoir": "The wager was to \"study the possibility of erecting an iron tower on the Champ-de-Mars with a square base, 125 metres across and 300 metres tall\". Selected from among 107 projects, it was that of Gustave Eiffel, an entrepreneur, Maurice Koechlin and Emile Nouguier, both engineers, and Stephen Sauvestre, an architect, that was accepted. Emile Nouguier and Maurice Koechlin, the two chief engineers in Eiffel's company, had the idea for a very tall tower in June 1884. It was to be designed like a large pylon with four columns of lattice work girders, separated at the base and coming together at the top, and joined to each other by more metal girders at regular intervals."
+    },
     "Cara Delevingne":
     {
         "height": 1.73, "weight": 51,
@@ -9,6 +34,13 @@
         {
             "RU": { "title": "Кара Делевинь" }
         }
+    },
+    "Musée d'Orsay":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.musee-orsay.fr",
+        "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition."
     },
     "Brigitte Bardot":
     {
@@ -34,7 +66,7 @@
     {
         "foot_type": "Greek", "nsfw": "true",
         "maison": "https://www.coutureboudoir.com",
-        "insignia": "crown", "country": "FR",
+        "country": "FR",
         "language":
         {
             "RU": { "title": "Дамская комната" }
@@ -59,9 +91,117 @@
             "RU": { "title": "Ариана Гранде" }
         }
     },
+    "Notre-Dame de Paris":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.notredamedeparis.fr",
+        "memoir": "Au IVe siècle, avec l’avènement de Clovis, Paris devient capitale chrétienne du royaume des francs. C’est alors qu’une première cathédrale Saint-Etienne est bâtie au VIe siècle. L’essor de la ville débute au XIIe siècle après les invasions normandes. Quatre papes y séjournent au cours du siècle. La ville prospère, elle est un lieu d’échanges artistiques et intellectuels, dotée de collèges et d’une université de philosophie et théologie. C’est ainsi que débute l’histoire de Notre Dame.",
+        "language":
+        {
+            "RU": {
+                "title": "Собор Парижской Богоматери",
+                "memoir": "В IV веке, с приходом к власти Хлодвига, Париж стал христианской столицей Франкского королевства. Именно тогда в VI веке был построен первый собор Сент-Этьена. Рост города начался в 12 веке после вторжения норманнов. В течение столетия здесь останавливались четыре папы. Город процветает, это место художественного и интеллектуального обмена, с колледжами и университетом философии и теологии. Так начинается история Нотр-Дама."
+            }
+        }
+    },
+    "The musée du Louvre":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "louvre",
+        "maison": "https://www.louvre.fr",
+        "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV."
+    },
+    "1889 Exposition Universelle":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://www.toureiffel.paris",
+        "memoir": "The 1889 Exposition Universelle received millions of visitors. Amongst them, 1,953,122 came to see the Eiffel Tower, in other words almost 12,000 a day! The Tower was met with immediate success. From the very first week, though the lifts were not yet in service (they would be from the 26th May), almost 30,000 visitors climbed the monument using the staircase, that is to say 1,710 steps to the top! At the time, the Eiffel Tower was the tallest tower in the world and people from all countries went to the heart of the French Capital to admire this architectural masterpiece."
+    },
+    "Turgot map of Paris":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "mason",
+        "memoir": "The Turgot map was published in 1739 as an atlas of twenty non-overlapping sectional bird's-eye-view maps (at a scale of approximately 1:400) in isometric perspective toward the southeast. Additionally, there is one simplified general map with a four-by-five grid showing the layout of the twenty sectional maps. The atlas covers an area approximately corresponding to the first eleven of the modern-day arrondissements of Paris. Each sectional map consists of double-facing sheets and is 80 cm wide; the first row is 48 cm high, while the remaining rows are 50 cm high. The assembled map is 250.5 cm in height and 322.5 cm in width. Turgot's map has been described as \"the first all-comprising graphical inventory of the capital, down to the last orchard and tree, detailing every house and naming even the most modest cul-de-sac\"."
+    },
+    "Ptolemy's world map":
+    {
+        "setting": "La Belle Époque",
+        "country": "GR",
+        "memoir": "The continents are given as Europe, Asia, and Libya (Africa). The World Ocean is only seen to the west. The map distinguishes two large enclosed seas: the Mediterranean and the Indian (Indicum Pelagus). Due to Marinus and Ptolemy's mistaken measure of the circumference of the earth, the former is made to extend much too far in terms of degrees of arc; due to their reliance on Hipparchus, they mistakenly enclose the latter with an eastern and southern shore of unknown lands, which prevents the map from identifying the western coast of the World Ocean."
+    },
+    "Dutch East India Company":
+    {
+        "setting": "La Belle Époque",
+        "country": "NL",
+        "insignia": "eastindia",
+        "memoir": "Dutch East India Company, trading company founded in the Dutch Republic (present-day Netherlands) in 1602 to protect that state’s trade in the Indian Ocean and to assist in the Dutch war of independence from Spain. The company prospered through most of the 17th century as the instrument of the powerful Dutch commercial empire in the East Indies (present-day Indonesia). It was dissolved in 1799."
+    },
+    "Dutch intervention in Bali":
+    {
+        "setting": "La Belle Époque",
+        "country": "NL",
+        "insignia": "eastindia",
+        "memoir": "The Dutch conquest of South Bali in 1906 was a Dutch military intervention in Bali as part of the Dutch colonial conquest of the Indonesian islands, killing an estimated 1,000 people. It was part of the final takeover of the Netherlands East-Indies. The campaign led to the deaths of the Balinese rulers of Badung and Tabanan kingdoms, their wives and children and followers. This conquest weakened the remaining independent kingdoms of Klungkung and Bangli, leading to their invasion two years later. It was the sixth Dutch military intervention in Bali."
+    },
+    "Voyages of Christopher Columbus":
+    {
+        "setting": "La Belle Époque",
+        "country": "ES",
+        "memoir": "Between 1492 and 1504, the Italian navigator and explorer Christopher Columbus led four transatlantic maritime expeditions in the name of the Catholic Monarchs of Spain to the Caribbean and to Central and South America. These voyages led to the widespread knowledge of the New World. This breakthrough inaugurated the period known as the Age of Discovery, which saw the colonization of the Americas, a related biological exchange, and trans-Atlantic trade. These events, the effects and consequences of which persist to the present, are often cited as the beginning of the modern era."
+    },
+    "Boston Tea Party":
+    {
+        "setting": "La Belle Époque",
+        "country": "US",
+        "insignia": "teabag",
+        "memoir": "The Boston Tea Party was an American political and mercantile protest on December 16, 1773, by the Sons of Liberty in Boston in colonial Massachusetts. The target was the Tea Act of May 10, 1773, which allowed the British East India Company to sell tea from China in American colonies without paying taxes apart from those imposed by the Townshend Acts. The Sons of Liberty strongly opposed the taxes in the Townshend Act as a violation of their rights. In response, the Sons of Liberty, some disguised as Native Americans, destroyed an entire shipment of tea sent by the East India Company."
+    },
+    "Declaration of Independence":
+    {
+        "setting": "La Belle Époque",
+        "country": "US",
+        "memoir": "The Declaration of Independence, formally titled The unanimous Declaration of the thirteen united States of America (in the engrossed version but not the original printing), is the founding document of the United States. On July 4, 1776, it was adopted unanimously by the 56 delegates to the Second Continental Congress, who had convened at the Pennsylvania State House, later renamed Independence Hall, in the colonial era capital of Philadelphia. The declaration explains to the world why the Thirteen Colonies regarded themselves as independent sovereign states no longer subject to British colonial rule."
+    },
+    "American Revolutionary War":
+    {
+        "setting": "La Belle Époque",
+        "country": "US",
+        "memoir": "The American Revolutionary War (April 19, 1775 – September 3, 1783), also known as the Revolutionary War or American War of Independence, was a military conflict that was part of the broader American Revolution, where American Patriot forces organized as the Continental Army and commanded by George Washington defeated the British Army. During the war, American Patriot forces had the support of France and Spain, while the British and Loyalist forces hired Hessian soldiers from Germany for assistance. The conflict was fought in North America, the Caribbean, and the Atlantic Ocean. The war ended with the Treaty of Paris in 1783, which resulted in Great Britain ultimately recognizing the independence and sovereignty of the United States."
+    },
+    "Burning of Washington":
+    {
+        "setting": "La Belle Époque",
+        "country": "US",
+        "memoir": "The Burning of Washington, also known as the Capture of Washington, was a successful British amphibious attack conducted by Rear-Admiral George Cockburn during Admiral Sir John Warren's Chesapeake campaign. It was the only time since the American Revolutionary War that a foreign power had captured and occupied a United States capital. Following the defeat of American forces at the Battle of Bladensburg on August 24, 1814, a British army led by Major-General Robert Ross marched on Washington, D.C. That evening, British soldiers and sailors set fire to multiple public buildings; including the Presidential Mansion, United States Capitol, and Washington Navy Yard."
+    },
+    "Franz Ferdinand":
+    {
+        "setting": "La Belle Époque",
+        "country": "RS",
+        "memoir": "The assassination of Archduke Franz Ferdinand was one of the key events that led to World War I. Archduke Franz Ferdinand of Austria, heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg, were assassinated on 28 June 1914 by Bosnian Serb student Gavrilo Princip. They were shot at close range while being driven through Sarajevo, the provincial capital of Bosnia-Herzegovina, formally annexed by Austria-Hungary in 1908.",
+        "language":
+        {
+            "RU": {
+                "title": "Сараевское убийство",
+                "memoir": "Сараевское убийство — убийство 28 июня 1914 года эрцгерцога Франца Фердинанда, наследника австро-венгерского престола, и его жены герцогини Софии Гогенберг в Сараеве сербским гимназистом Гаврилой Принципом, входившим в группу из шести террористов, координировавшихся Данилой Иличем."
+            }
+        }
+    },
     "Bonnie and Clyde":
     {
         "setting": "La Belle Époque",
-        "country": "US", "insignia": "pistol"
+        "country": "US",
+        "memoir": "Bonnie Elizabeth Parker and Clyde Chestnut \"Champion\" Barrow were American bandits who traveled the Central United States with their gang during the Great Depression. The couple was known for their bank robberies and multiple murders, although they preferred to rob small stores or rural funeral homes. Their exploits captured the attention of the American press and its readership during what is occasionally referred to as the \"public enemy era\" between 1931 and 1934. They were ambushed by police and shot to death in Bienville Parish, Louisiana. They are believed to have murdered at least nine police officers and four civilians.",
+        "language":
+        {
+            "RU": {
+                "title": "Бонни и Клайд",
+                "memoir": "Бо́нни Элизабет Паркер и Клайд Чеснат Бэрроу — американские грабители, действовавшие во времена Великой депрессии. В разное время в их банду входили: Бак Бэрроу, старший брат Клайда; Бланш Бэрроу, жена Бака; Рэймонд Гамильтон, В. Д. Джонс, Джо Палмер, Ральф . И, хотя сейчас они известны по примерно двенадцати ограблениям банков, Бэрроу предпочитал грабить небольшие магазинчики, парикмахерские и заправки. Считается, что по вине банды погибло по крайней мере девять полицейских и несколько гражданских лиц. Сами Бонни и Клайд были убиты 23 мая 1934 года техасскими рейнджерами и полицейскими из штата Луизиана."
+            }
+        }
     }
 }
