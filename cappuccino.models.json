@@ -42,7 +42,7 @@
     {
         "setting": "La Belle Époque",
         "country": "FR",
-        "insignia": "palace",
+        "insignia": "clock",
         "maison": "https://www.musee-orsay.fr",
         "memoir": "Built on the ashes of the original Palais d'Orsay, the Musée d'Orsay was first a station before becoming a museum (The original Palace was built in 1810 before being set on fire in 1871 during the Paris Commune.) It was the great French architect of the period, Victor Laloux, and two other fellow architects who were given the job of creating the designs for the terminus of the Compagnie du Chemin de fer d'Orleans. The station’s objective was to welcome visitors from home and abroad for the 1900 Universal Exhibition."
     },
@@ -59,8 +59,9 @@
     },
     "Parisian Wedding":
     {
-        "insignia": "eurohouse",
-        "nsfw": "true", "country": "FR",
+        "insignia": "casual",
+        "nsfw": "true",
+        "country": "FR",
         "language":
         {
             "RU": { "title": "Свадьба в Париже" }
