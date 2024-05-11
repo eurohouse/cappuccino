@@ -69,7 +69,8 @@
     },
     "Boudoir":
     {
-        "foot_type": "Greek", "nsfw": "true",
+        "foot_type": "Greek",
+        "nsfw": "true",
         "maison": "https://www.coutureboudoir.com",
         "country": "FR",
         "language":
