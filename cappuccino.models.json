@@ -235,5 +235,49 @@
         {
             "RU": { "title": "Мэрилин Монро" }
         }
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language":
+        {
+            "RU": { "title": "Оливия Калпо" }
+        }
+    },
+    "Camila Cabello":
+    {
+        "height": 1.57, "weight": 50,
+        "sizes": "87-64-90", "nsfw": "true",
+        "shoe_size": 7, "country": "US",
+        "birthday": "March 3, 1997",
+        "language":
+        {
+            "RU": { "title": "Камила Кабельо" }
+        }
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Barbara Palvin":
+    {
+        "height": 1.75, "weight": 58,
+        "sizes": "85-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "HU",
+        "birthday": "October 8, 1993",
+        "language":
+        {
+            "RU": { "title": "Барбара Палвин" }
+        }
     }
 }
