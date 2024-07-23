@@ -3,6 +3,7 @@
     {
         "setting": "La Belle Époque",
         "country": "GB",
+        "insignia": "compass",
         "memoir": "RMS Titanic was a British ocean liner that sank on 15 April 1912 after striking an iceberg on the ship's maiden voyage from Southampton, England to New York City, United States. Titanic, operated by the White Star Line, was carrying passengers and mail. Of the estimated 2,224 passengers and crew aboard, approximately 1,500 died, making the incident the deadliest sinking of a single ship at the time. Titanic carried some of the wealthiest people in the world, as well as hundreds of emigrants from the British Isles, Scandinavia, and elsewhere in Europe who were seeking a new life in the United States and Canada. The disaster drew public attention, spurred major changes in maritime safety regulations, and inspired a lasting legacy in popular culture."
     },
     "Borki train disaster":
@@ -159,6 +160,7 @@
     {
         "setting": "La Belle Époque",
         "country": "ES",
+        "insignia": "compass",
         "memoir": "Between 1492 and 1504, the Italian navigator and explorer Christopher Columbus led four transatlantic maritime expeditions in the name of the Catholic Monarchs of Spain to the Caribbean and to Central and South America. These voyages led to the widespread knowledge of the New World. This breakthrough inaugurated the period known as the Age of Discovery, which saw the colonization of the Americas, a related biological exchange, and trans-Atlantic trade. These events, the effects and consequences of which persist to the present, are often cited as the beginning of the modern era."
     },
     "Boston Tea Party":
