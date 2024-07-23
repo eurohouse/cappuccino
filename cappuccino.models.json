@@ -102,6 +102,7 @@
     {
         "setting": "La Belle Époque",
         "country": "FR",
+        "insignia": "notredame",
         "maison": "https://www.notredamedeparis.fr",
         "memoir": "Au IVe siècle, avec l’avènement de Clovis, Paris devient capitale chrétienne du royaume des francs. C’est alors qu’une première cathédrale Saint-Etienne est bâtie au VIe siècle. L’essor de la ville débute au XIIe siècle après les invasions normandes. Quatre papes y séjournent au cours du siècle. La ville prospère, elle est un lieu d’échanges artistiques et intellectuels, dotée de collèges et d’une université de philosophie et théologie. C’est ainsi que débute l’histoire de Notre Dame.",
         "language":
