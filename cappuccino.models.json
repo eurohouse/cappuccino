@@ -402,13 +402,13 @@
             }
         }
     },
-    "Viennese Waltz": {
-        "country": "AT", "insignia": "Knight",
-        "memoir": "The Viennese Waltz is a classic dance style that is featured in many romantic movies and animated films. It is characterized by sweeping, graceful turns that rotate quickly around the floor. Although it shares many similarities to the slow Waltz, it is danced at a much faster tempo—twice the speed of the slow Waltz. The Viennese Waltz is the oldest form of ballroom dance. It emerged in the 18th century around 1750. Its precursors originate back to the 12th century to a dance of the Middle Ages known as the Round. The final turn of the dancing couple in the Round was the highlight of the dance, and this complete turn became characteristic of the Viennese Waltz. The ¾ time that makes Viennese waltz possible dates back at least as far as 1679 when “Das Lied vom lieben Augustin” was written.",
+    "Palace Ballroom": {
+        "country": "EU", "insignia": "Harp",
+        "memoir": "The sounds of polonaise, waltz, mazurka, quadrille, polka enlivened the walls of Wedding Palace No. 3 in Tsarskoye Selo on February 18, 2015. On a winter evening, the mansion of V.P. Kochubey seemed to return for several hours 200 years back in time to the era of the triumph of the Russian people's victory in the Patriotic War of 1812. The doors of the palace were hospitably opened for a historical reconstruction of the ball dedicated to the 150th anniversary of the publication of L.N. Tolstoy's novel War and Peace in honor of the Year of Literature declared in Russia in 2015. The ball was held jointly with the Tsarskoye Selo Youth House, the First Cadet Corps of the Border Troops of the FSB of Russia and the Pushkin Naval Engineering Institute.",
         "language": {
             "RU": {
-                "title": "Венский вальс",
-                "memoir": "Венский вальс — классический танцевальный стиль, который можно увидеть во многих романтических фильмах и анимационных фильмах. Он характеризуется плавными, грациозными поворотами, которые быстро вращаются вокруг пола. Хотя он имеет много общего с медленным вальсом, его танцуют в гораздо более быстром темпе — в два раза быстрее, чем медленный вальс. Венский вальс — старейшая форма бального танца. Он появился в XVIII веке около 1750 года. Его предшественники берут свое начало в XII веке в танце Средневековья, известном как «Раунд». Последний поворот танцующей пары в «Раунде» был изюминкой танца, и этот полный поворот стал характерным для венского вальса. Такт ¾, который делает возможным венский вальс, восходит как минимум к 1679 году, когда была написана «Песнь милого Августина»."
+                "title": "Бал в Царскосельском дворце",
+                "memoir": "Звуки полонеза, вальса, мазурки, кадрили, польки оживили стены Дворца бракосочетания № 3 в Царском Селе 18 февраля 2015 года. Зимним вечером особняк В.П. Кочубея на несколько часов словно вернулся на 200 лет назад в эпоху торжества победы русского народа в Отечественной войне 1812 года. Двери дворца были  гостеприимно распахнуты для исторической реконструкции бала, посвященного 150-летию публикации  романа Л.Н. Толстого «Война и мир» в честь Года литературы, объявленного в России в 2015 году. Бал был проведен совместно с Домом молодежи «Царскосельский», Первым кадетским корпусом пограничных войск ФСБ России и  Военно-морским инженерным институтом г. Пушкина."
             }
         }
     },
