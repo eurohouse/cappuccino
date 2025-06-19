@@ -109,6 +109,7 @@
     },
     "British Royal Train": {
         "country": "GB", "insignia": "OrientExpress",
+        "maison": "https://www.royal.uk",
         "memoir": "The British Royal Train is used to convey senior members of the British royal family and associated staff of the Royal Household around the railway network of Great Britain. It is owned, maintained and operated by DB Cargo UK. The Royal Train comprises a dedicated set of claret liveried sleeper, dining and lounge carriages. The current rolling stock dates from 1977 to 1987. They are arranged according to requirements, and stored when not in use. The earliest royal coaches date back to the mid-19th century in the reign of Queen Victoria; until an upgrade in 1977 there were multiple sets based in different regions, a legacy of the pre-nationalisation era of railways in Britain. Many are now in museums or on heritage railways; the National Railway Museum in York has a royal themed exhibition.",
         "language": {
             "RU": {
