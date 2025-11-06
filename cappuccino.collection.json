@@ -43,8 +43,8 @@
         "title": "Le [french] du [title^1]",
         "language": {
             "CH": "Imperialismo Bonapartisme",
-            "GR": "[french] [title^1]",
-            "CY": "[french] [title^1]",
+            "GR": "[french] του [title^1]",
+            "CY": "[french] του [title^1]",
             "RU": "[french] [title^1]",
             "UA": "[french] [title^1]",
             "BY": "[french] [title^1]",
